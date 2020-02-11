@@ -1,8 +1,8 @@
-Name:
+Name: Zahid Hossain
 
-EID:
+EID: zh4757
 
-Team Number:
+Team Number: 8
 
 ## Questions
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/zh4757_Saleae_ProcedureA-Sequence.jpg)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
