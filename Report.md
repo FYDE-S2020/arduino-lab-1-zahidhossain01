@@ -64,7 +64,7 @@ Procedure A, step 1:
 ![Put path to your image here ->](img/zh4757_Saleae_ProcedureA-Sequence.jpg)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/zh4757_Saleae_ProcedureA-Dimmer.jpg)
 
 Procedure B, UART:
 ![Put path to your image here ->](img/placeholder.png)
